@@ -1,4 +1,4 @@
-![covid 19](https://github.com/user-attachments/assets/80099a8e-d7e1-4300-863f-f1d98162f004)# contoh-data-analyst
+# contoh-data-analyst
 test
 
 # Data set
@@ -8,4 +8,4 @@ test
 
 # Dashboard
 
-![Uploading covid 19.png…](https://github.com/robyanam05/contoh-data-analyst/blob/main/covid%2019.png)
+![covid 19](https://github.com/user-attachments/assets/80099a8e-d7e1-4300-863f-f1d98162f004)
